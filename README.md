@@ -1,7 +1,8 @@
 # Module 9 Challenge
-The project task is to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. 
+There is business interest in opening a surf and ice cream shop business year-round in Oahu, HI. Before making such a decision, further reserach and analysis is required to determine whether the temperature trends throughout the year are suitable for such a business.
 
-## Summary of Tasks
+## Overview of Analysis
+To determine the suitability of the weather, temperature data were collected for June and December to best represent the summer and winter seasons, irrespectively. Data for these two months were collected over a period of six (6) years from 2010 thru 2016. The following specific tasks were completed.
 * Deliverable 1: Obtain statistical data regarding June temperatures in Oahu, HI
 * Deliverable 2: Obtain statistical data regarding December temperatures in Oahu, HI
 * Deliverable 3: Provide an analysis of the data
@@ -25,15 +26,16 @@ The project task is to create an automated pipeline that takes in new data, perf
 
 ### Combined Average Temperatures
 
-It seems that temperatures between June and December do vary too much. There should be plenty of tourist needing to eat ice cream.
-
 ![Combined Temp Averages](images/Combined_Temp_Avg.PNG)
 
 ### Line Chart Comparting June and December Temperatures
 
-It seems summer temperatures over the years have started to increase since 2011. Major fluctuations occuring in December with record lows and records highs between 2014 and 2015.
-
 ![Combined Temp Averages Line Chart](images/LineChart.PNG)
+
+### Key Differences Between June and December
+
+* It seems that temperatures between June and December do not vary too much. There should be plenty of tourist needing to eat ice cream.
+* It seems summer temperatures over the years have started to increase since 2011. Major fluctuations occuring in December with record lows and records highs between 2014 and 2015.
 
 ## Resources
 - Data Source: hawaii.sqlite database

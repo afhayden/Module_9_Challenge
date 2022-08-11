@@ -39,7 +39,10 @@ To determine the suitability of the weather, temperature data were collected for
 * It seems summer temperatures over the years have started to increase since 2011. Major fluctuations occuring in December with record lows and records highs between 2014 and 2015.
 
 ## Summary
-It seems that a year round surf and ice-cream shop is vary viable in Oahu, HI. The temperatures stay pretty even, with slight chances of December dipping down lower. There may be less business during the deep winter months. Two other queries that could be performed would be to identify the precipitation over the years during each season. Is there a rainy season?
+It seems that a year round surf and ice-cream shop is vary viable in Oahu, HI. The temperatures stay pretty even, with slight chances of December dipping down lower. There may be less business during the deep winter months. Possible other queries to perform would be:
+
+* To identify the precipitation over the years during each season. Is there a rainy season?
+* We should also pull temperatures for the entire year to determine when seasons have changed over the years. How many months is spring, summer, fall and winter. Same thing with preciptitation. we should plot the precipitation over the year.
 
 ## Resources
 - Data Source: hawaii.sqlite database

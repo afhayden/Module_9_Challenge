@@ -7,7 +7,7 @@ To determine the suitability of the weather, temperature data were collected for
 * Deliverable 2: Obtain statistical data regarding December temperatures in Oahu, HI
 * Deliverable 3: Provide an analysis of the data
 
-## Summary of Results
+## Results
 ### June Temperatures Stats - 2010 thru 2016
 
 ![List of June Temps](images/June_Temps.PNG)
@@ -34,8 +34,12 @@ To determine the suitability of the weather, temperature data were collected for
 
 ### Key Differences Between June and December
 
-* It seems that temperatures between June and December do not vary too much. There should be plenty of tourist needing to eat ice cream.
+* It seems that temperatures between June and December do not vary too much. There should be plenty of tourist needing to eat ice cream. There is only a 3 to 5 degree difference on average between June and December. 
+* Minimum temperatures between June and December do seem to defer more drastically. When the temperatures in December dip, they tend to dip much further than in June.
 * It seems summer temperatures over the years have started to increase since 2011. Major fluctuations occuring in December with record lows and records highs between 2014 and 2015.
+
+## Summary
+It seems that a year round surf and ice-cream shop is vary viable in Oahu, HI. The temperatures stay pretty even, with slight chances of December dipping down lower. There may be less business during the deep winter months. Two other queries that could be performed would be to identify the precipitation over the years during each season. Is there a rainy season?
 
 ## Resources
 - Data Source: hawaii.sqlite database

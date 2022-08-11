@@ -7,13 +7,21 @@ The project task is to create an automated pipeline that takes in new data, perf
 * Deliverable 3: Provide an analysis of the data
 
 ## Summary of Results
-### June Temperatures - 2010 thru 2016
+### June Temperatures Stats - 2010 thru 2016
 
 ![List of June Temps](images/June_Temps.PNG)
 
-### December Temperatures - 2010 thru 2016
+### June Temperatures Stats by Year
+
+![List of June Temps by Year](images/June_Describe_by_Year.PNG)
+
+### December Temperatures Stats - 2010 thru 2016
 
 ![List of December Temps](images/December_Temps.PNG)
+
+### December Temperatures Stats by Year
+
+![List of December Temps by Year](images/Dec_Describe_by_Year.PNG)
 
 ### Combined Average Temperatures
 
